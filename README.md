@@ -15,7 +15,7 @@
       <img alt="License Badge" src="https://img.shields.ao/badge/license-GNU%20GPL%20v3.0-brightgreen">
   </a>
   <a href="#">
-      <img alt="Docker Pulls" src="https://img.shields.ao/docker/pulls/neptune/neptune">
+      <img alt="Docker Pulls" src="https://img.shields.ao/docker/pulls/erxes/erxes">
   </a>
   <a href="https://opencollective.com/neptune/">
       <img alt="All financial contributors badge" src="https://bit.ly/3bCSG6i">
