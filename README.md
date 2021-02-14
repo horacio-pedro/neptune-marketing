@@ -1,10 +1,10 @@
 <p align="center">
- <img src="docs/static/img/logo_dark.png" alt="neptune logo" width="20%" />
+ <img src="docs/static/img/logo_dark.png" alt="neptune logo" width="30%" />
 </p>
 
 <p align="center">neptune is an open fair-code licensed all-in-one growth marketing & management software. We offer an all-in-one solution for sales, marketing, and customer service teams, with a focus on the entire customer experience.</p
 
-<p align="center"><a href="https://demo.neptune.io/">Live demo</a> <b>| </b> <a href="https://community.neptune.io/register/Gw4WRJnk9fSbyAXTq">Join our community</a></p>
+<p align="center"><a href="https://demo.neptune.ao/">Live demo</a> <b>| </b> <a href="https://community.neptune.ao/register/Gw4WRJnk9fSbyAXTq">Join our community</a></p>
 
 <p align="center">
   <a href="https://app.codacy.com/gh/neptune/neptune?utm_source=github.com&utm_medium=referral&utm_content=neptune">
@@ -12,10 +12,10 @@
   </a>
 
    <a href="https://github.com/neptune/neptune/blob/master/LICENSE.md">
-      <img alt="License Badge" src="https://img.shields.io/badge/license-GNU%20GPL%20v3.0-brightgreen">
+      <img alt="License Badge" src="https://img.shields.ao/badge/license-GNU%20GPL%20v3.0-brightgreen">
   </a>
   <a href="#">
-      <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/neptune/neptune">
+      <img alt="Docker Pulls" src="https://img.shields.ao/docker/pulls/neptune/neptune">
   </a>
   <a href="https://opencollective.com/neptune/">
       <img alt="All financial contributors badge" src="https://bit.ly/3bCSG6i">
