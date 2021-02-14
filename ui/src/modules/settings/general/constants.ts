@@ -6,7 +6,7 @@ export const LANGUAGES = [
   { label: 'Italian', value: 'it' },
   { label: 'Korean', value: 'ko' },
   { label: 'Spanish', value: 'es' },
-  { label: 'Portuguese', value: 'pt-br' },
+  { label: 'Português', value: 'pt-br' },
   { label: 'Japanese', value: 'ja' },
   { label: 'Russian', value: 'ru' },
   { label: 'Chinese', value: 'zh-cn' },
@@ -31,12 +31,12 @@ export const FILE_SYSTEM_TYPES = [
 ];
 
 export const DATA_RETENTION_DURATION = [
-  { label: '3 months', value: 3 },
-  { label: '4 months', value: 4 },
-  { label: '5 months', value: 5 },
-  { label: '6 months', value: 6 },
-  { label: '9 months', value: 9 },
-  { label: '12 months', value: 12 }
+  { label: '3 meses', value: 3 },
+  { label: '4 meses', value: 4 },
+  { label: '5 meses', value: 5 },
+  { label: '6 meses', value: 6 },
+  { label: '9 meses', value: 9 },
+  { label: '12 meses', value: 12 }
 ];
 
 export const MEASUREMENTS = [

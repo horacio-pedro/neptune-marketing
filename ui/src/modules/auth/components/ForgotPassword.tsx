@@ -40,23 +40,23 @@ class ForgotPassword extends React.Component<Props, { email: string }> {
   render() {
     return (
       <AuthBox>
-        <h2>{__('Reset your password')}</h2>
+        <h2>{__('Resetar a password')}</h2>
         <form onSubmit={this.handleSubmit}>
           <FormGroup>
             <FormControl
               type="email"
-              placeholder={__('registered@email.com')}
+              placeholder={__('exemplo@email.com')}
               value={this.state.email}
               required={true}
               onChange={this.handleEmailChange}
             />
           </FormGroup>
           <Button btnStyle="success" type="submit" block={true}>
-            Email me the instruction
+            Envia-me as instruções
           </Button>
         </form>
         <Links>
-          <Link to="/sign-in">{__('Sign in')}</Link>
+          <Link to="/sign-in">{__('Entrar na plataforma')}</Link>
         </Links>
       </AuthBox>
     );

@@ -167,7 +167,7 @@ class Navigation extends React.Component<{
     return (
       <LeftNavigation>
         <NavLink to="/">
-          <img src="/images/erxes.png" alt="erxes" />
+          <img src="/images/neptune.png" alt="neptune" />
         </NavLink>
         {REACT_APP_DASHBOARD_URL !== 'undefined'
           ? this.renderNavItem(

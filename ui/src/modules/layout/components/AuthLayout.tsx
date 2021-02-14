@@ -23,7 +23,7 @@ class AuthLayout extends React.Component<Props, {}> {
       <MobileRecommend>
         <CenterContent>
           <div>
-            <b>{__('erxes Inc')}</b>
+            <b>{__('neptune Inc')}</b>
             <div>{__(desciption)}</div>
           </div>
           <Button btnStyle="link" size="small" href={link}>
@@ -55,7 +55,7 @@ class AuthLayout extends React.Component<Props, {}> {
     if (description) {
       return (
         <>
-          <img src="/images/logo.png" alt="erxes" />
+          <img src="/images/logo.png" alt="neptune" />
           {description}
         </>
       );
@@ -63,14 +63,16 @@ class AuthLayout extends React.Component<Props, {}> {
 
     return (
       <>
-        <img src="/images/logo.png" alt="erxes" />
-        <h1>{__('Open Source Growth Marketing Platform')}</h1>
+        <img src="/images/logo.png" alt="neptune" />
+        <h1>{__('Plataforma de Marketing de Crescimento')}</h1>
         <p>
           {__(
-            'Marketing, sales, and customer service platform designed to help your business attract more engaged customers. Replace Hubspot with the mission and community-driven ecosystem.'
+            'Marketing, projetos e vendas. Plataforma de gestão projetado para ajudar o seu negócio a atrair mais clientes'
           )}
         </p>
-        <a href={__('Homepage link')}>« {__('Go to home page')}</a>
+        <a href={__('https://www.conexoesinfinito.com')}>
+          « {__('Voltar a página inicial')}
+        </a>
       </>
     );
   }

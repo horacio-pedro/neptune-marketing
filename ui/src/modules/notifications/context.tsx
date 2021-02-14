@@ -80,7 +80,7 @@ class Provider extends React.Component<FinalProps> {
         notificationsQuery.refetch();
         notificationCountQuery.refetch();
 
-        Alert.success('Notifications have been seen');
+        Alert.success('Notificações foram vistas');
       })
       .catch(error => {
         Alert.error(error.message);

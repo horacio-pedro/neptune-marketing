@@ -92,7 +92,7 @@ class NotificationList extends React.Component<Props, State> {
           onClick={this.markAllRead.bind(this, true)}
           icon="window-maximize"
         >
-          Mark Page Read
+          Marcar página lida
         </Button>
         <Button
           btnStyle="success"
@@ -100,7 +100,7 @@ class NotificationList extends React.Component<Props, State> {
           onClick={this.markAllRead.bind(this, false)}
           icon="eye"
         >
-          Mark All Read
+          Marcar todas como lida
         </Button>
       </div>
     );
@@ -123,7 +123,7 @@ class NotificationList extends React.Component<Props, State> {
             data={content}
             loading={loading}
             count={count}
-            emptyText="Looks like you are all caught up!"
+            emptyText="Parece que está tudo preso!"
             emptyImage="/images/actions/17.svg"
           />
         }

@@ -41,7 +41,7 @@ class NotificationListContainer extends React.Component<FinalProps> {
             notificationCountQuery.refetch();
           }
 
-          Alert.success('Notification have been seen');
+          Alert.success('Notificações foram vistas');
         })
         .catch(error => {
           Alert.error(error.message);

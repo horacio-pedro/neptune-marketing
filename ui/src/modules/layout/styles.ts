@@ -97,7 +97,7 @@ const AuthDescription = styled.div`
   margin: 20px 0;
 
   img {
-    width: 100px;
+    width: 250px;
     margin-bottom: 50px;
   }
 

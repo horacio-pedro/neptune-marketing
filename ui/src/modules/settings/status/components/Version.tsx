@@ -65,7 +65,7 @@ const Version = (props: Props) => {
   if (kind === 'plain') {
     return (
       <VersionContainer isLatest={info.isLatest}>
-        Version{' '}
+        Versão{' '}
         <Link to="/settings/release-info">
           <strong>{info.version}</strong>
         </Link>
@@ -74,20 +74,19 @@ const Version = (props: Props) => {
           placement="top"
           text={
             info.isLatest
-              ? __('You are using latest version of erxes')
-              : __('You are using outdated version of erxes')
+              ? __('Está utilizando a última versão do erxes')
+              : __('Está utilizando uma versão desatualizada do erxes')
           }
         >
           <Icon icon="exclamation-octagon" />
         </Tip>
         &nbsp;
-        <span aria-hidden="true">·</span>&nbsp;
+        <span aria-hidden="true">·</span>&nbsp; Edição{' '}
         <span>
           {info.isUsingRedis && info.isUsingRabbitMQ && info.isUsingElkSyncer
             ? 'Enterprise'
             : 'Lite'}
-        </span>{' '}
-        Edition
+        </span>
       </VersionContainer>
     );
   }

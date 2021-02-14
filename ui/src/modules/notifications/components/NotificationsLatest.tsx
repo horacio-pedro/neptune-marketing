@@ -43,7 +43,7 @@ class NotificationsLatest extends React.Component<Props> {
         </NotificationSeeAll>
         <MarkAllRead>
           <span onClick={markAsRead.bind(this, [])}>
-            {__('Mark all as read')}
+            {__('Marcar todos com lidos')}
           </span>{' '}
         </MarkAllRead>
       </React.Fragment>
@@ -52,7 +52,7 @@ class NotificationsLatest extends React.Component<Props> {
     const emptyContent = (
       <PopoverContent>
         <EmptyState
-          text={__('Looks like you are all caught up')}
+          text={__('Parece que está tudo preso')}
           image="/images/actions/17.svg"
         />
       </PopoverContent>

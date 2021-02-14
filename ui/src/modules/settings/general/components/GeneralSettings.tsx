@@ -143,7 +143,7 @@ class GeneralSettings extends React.Component<Props, State> {
 
     const breadcrumb = [
       { title: __('Settings'), link: '/settings' },
-      { title: __('General system config') }
+      { title: __('Sistema de configuração geral') }
     ];
 
     const actionButtons = (
@@ -440,14 +440,14 @@ class GeneralSettings extends React.Component<Props, State> {
       <Wrapper
         header={
           <Wrapper.Header
-            title={__('General system config')}
+            title={__('Sistema de configuração geral')}
             breadcrumb={breadcrumb}
           />
         }
         mainHead={<Header />}
         actionBar={
           <Wrapper.ActionBar
-            left={<Title>{__('General system config')}</Title>}
+            left={<Title>{__('Sistema de configuração geral')}</Title>}
             right={actionButtons}
           />
         }

@@ -28,7 +28,7 @@ class NavigationContainer extends React.Component<{
 
         // no need to send notification for bot message
         sendDesktopNotification({
-          title: 'You have a new message',
+          title: 'Você tem uma nova mensagem',
           content: strip(content || '')
         });
       }

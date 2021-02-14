@@ -21,7 +21,7 @@ class SignIn extends React.Component<Props> {
           <FormControl
             {...formProps}
             name="email"
-            placeholder={__('registered@email.com')}
+            placeholder={__('exemplo@email.com')}
             required={true}
           />
         </FormGroup>
@@ -31,7 +31,7 @@ class SignIn extends React.Component<Props> {
             {...formProps}
             name="password"
             type="password"
-            placeholder={__('password')}
+            placeholder={__('palavra-passe')}
             required={true}
           />
         </FormGroup>
@@ -47,10 +47,10 @@ class SignIn extends React.Component<Props> {
   render() {
     return (
       <AuthBox>
-        <h2>{__('Sign in')}</h2>
+        <h2>{__('Bem-vindo')}</h2>
         <Form renderContent={this.renderContent} />
         <Links>
-          <Link to="/forgot-password">{__('Forgot password?')}</Link>
+          <Link to="/forgot-password">{__('Esqueceu a password?')}</Link>
         </Links>
       </AuthBox>
     );
