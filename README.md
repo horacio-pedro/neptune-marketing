@@ -23,12 +23,12 @@
 </p>
 
 <p align="center">
- <a href="https://neptune.org" target="_blank"><img src="https://neptune-os.s3-us-west-2.amazonaws.com/github/git-neptune.gif" alt="Open Source Growth Marketing Platform "></a>
+ <a href="https://neptune.org" target="_blank"><img src="https://neptune-os.s3-us-west-2.amazonaws.com/github/git-erxes.gif" alt="Growth Marketing Platform "></a>
 </p>
 
 ## Features
 
-<img src="https://s3.amazonaws.com/neptune/github/features-transparent.png" width="400" align="right" style="max-width: 50%">
+<img src="https://s3.amazonaws.com/erxes/github/features-transparent.png" width="400" align="right" style="max-width: 50%">
 
 neptune helps you attract and engage more customers while helping you achieve high lead conversion. With neptune, all your marketing, sales, and customer service tools are merged into one platform for greater output.
 
