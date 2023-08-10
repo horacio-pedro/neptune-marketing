@@ -2,6 +2,7 @@
  <img src="docs/static/img/logo_dark.png" alt="neptune logo" width="30%" />
 </p>
 
+## Based on the open source project Erxes.io
 <p align="center">neptune is an open fair-code licensed all-in-one growth marketing & management software. We offer an all-in-one solution for sales, marketing, and customer service teams, with a focus on the entire customer experience.</p
 
 <p align="center"><a href="https://demo.neptune.ao/">Live demo</a> <b>| </b> <a href="https://community.neptune.ao/register/Gw4WRJnk9fSbyAXTq">Join our community</a></p>
