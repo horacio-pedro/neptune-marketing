@@ -2,7 +2,7 @@
  <img src="docs/static/img/logo_dark.png" alt="neptune logo" width="30%" />
 </p>
 
-## Based on the open source project Erxes.io
+### Based on the open source project Erxes.io
 <p align="center">neptune is an open fair-code licensed all-in-one growth marketing & management software. We offer an all-in-one solution for sales, marketing, and customer service teams, with a focus on the entire customer experience.</p
 
 <p align="center"><a href="https://demo.neptune.ao/">Live demo</a> <b>| </b> <a href="https://community.neptune.ao/register/Gw4WRJnk9fSbyAXTq">Join our community</a></p>
@@ -43,41 +43,3 @@ neptune helps you attract and engage more customers while helping you achieve hi
 - **Messenger:** Talk to Your Customers in Continuous Omnichannel Conversations. Enable businesses to capture customer feedback and communicate in real-time. You can educate your customers through the knowledge-base directly in the neptune Messenger.
 - **Knowledge base:** Create Help Articles for Customer Self-service. Educate both your customers, and staff by creating a help center related to your brand, products and services and reach a higher level of satisfaction.
 - **Task Management:** Work More Collaboratively and Get More Done. Save time, manage your projects, monitor your team and increase your productivity in just a few clicks. Neptune helps to turn chaos into clarity.
-
-## Documentation
-
-- <a href="https://www.neptune.org/">neptune documentation</a> <br>
-- <a href="https://www.neptune.org/overview/getting-started">Install neptune</a> <br>
-- <a href="https://www.neptune.org/developer/contributing">Contributing to neptune</a> <br>
-
-## Deployment
-
-### Ubuntu 18.04 LTS
-
-Follow these deployment instructions.
-
-[![ubuntu](https://neptune-os.s3-us-west-2.amazonaws.com/github/ubuntu-logo.png)](https://www.neptune.org/installation/ubuntu)
-
-### Docker
-
-Follow these deployment instructions.
-
-[![debian](https://neptune-os.s3-us-west-2.amazonaws.com/github/docker-logo.png)](https://www.neptune.org/installation/docker)
-
-### Heroku
-
-Host your own neptune server with One-Click Deploy.
-
-[![heroku](https://neptune-os.s3-us-west-2.amazonaws.com/github/heroku.png)](https://www.neptune.org/installation/heroku)
-
-### AWS Marketplace
-
-Launch an EC2 instance using neptune in the AWS Marketplace.
-
-[![debian](https://neptune-os.s3-us-west-2.amazonaws.com/github/aws-logo.png)](https://www.neptune.org/installation/aws)
-
-### DigitalOcean Droplet
-
-Deploy to a DigitalOcean droplet with our one-click install listing from the DigitalOcean Marketplace.
-
-[![debian](https://neptune-os.s3-us-west-2.amazonaws.com/github/droplet.png)](https://www.neptune.org/installation/digitalocean)
